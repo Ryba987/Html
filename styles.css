@@ -1,0 +1,37 @@
+#ID1{
+    color: blueviolet;
+  
+  }
+  .head2 {
+    color: red;
+  
+  }
+  body{
+    background-color: grey;
+  }
+  div{
+    background-color: red;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 2px;
+    padding-bottom: 2px;
+    float: left;
+  }
+  table{
+    border-style: dashed;
+    border-width: 50%;
+  }
+  #lista{
+    list-style-type: upper-roman;
+  }
+  tr:nth-child(odd){
+    background-color: pink;
+    color:blue;
+  }
+  tr:nth-child(odd){
+    color:green;
+  }
+  #przycisk{
+    background-color: blueviolet;
+    border-style: dashed;
+  }
